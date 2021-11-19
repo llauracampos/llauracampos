@@ -6,10 +6,7 @@
 
  
 
-:computer: I'm computer engineering student!
-
-:house_with_garden: I’m from Brazil.
-
+:computer: I'm computer engineering student at Federal University of Paraíba.
 :books: I’m currently learning more about Full Stack Development and researching Chaos and Complexity.
 
 
@@ -18,4 +15,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/llauracampos)](https://github.com/llauracampos)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llauracampos/)](https://www.linkedin.com/in/llauracampos/)
+
+Thanks for visiting! ❤
 
