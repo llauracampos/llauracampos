@@ -7,6 +7,7 @@
  
 
 :computer: I'm computer engineering student at Federal University of Paraíba.
+
 :books: I’m currently learning more about Full Stack Development and researching Chaos and Complexity.
 
 
