@@ -19,7 +19,7 @@ Visit to get to know me better!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llauracampos/)](https://www.linkedin.com/in/llauracampos/)
 
-	[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white://mailto:llauracampos@gmail.com)](mailto:llauracampos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white://mailto:llauracampos@gmail.com)](mailto:llauracampos@gmail.com)
 
 
 Thanks for visiting! ❤
