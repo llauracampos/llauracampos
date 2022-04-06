@@ -1,22 +1,20 @@
+## Olá mundo, eu sou a Laura! 🌐
 
+- 🎓 Sou graduanda em Engenharia de Computação pela Universidade Federal da Paraíba.
+- 💻 Atualmente estou aprendendo mais sobre JavaScript, Node.js e Go.
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llauracampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llauracampos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+ ##### Visite para me conhecer melhor! :point_down:
+
+<div> 
+  <a href="https://instagram.com/llauracampos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:llauracampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/llauracampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+</div>
 
-## Hello World, I'm Laura! 🌐
-
- 
-
-:computer: I'm computer engineering student at Federal University of Paraíba.
-
-:books: I’m currently learning more about Full Stack Development and researching Chaos and Complexity.
-
-
-## About me
-
-Visit to contact me! :point_down:
-
-[![Github Badge](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white://github.com/llauracampos)](https://github.com/llauracampos)  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white://www.linkedin.com/in/llauracampos/)](https://www.linkedin.com/in/llauracampos/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white://mailto:llauracampos@gmail.com)](mailto:llauracampos@gmail.com)
-
-
-Thanks for visiting! ❤
 
